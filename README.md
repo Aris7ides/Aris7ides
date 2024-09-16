@@ -12,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <h2>Social Media📱</h2>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jos%CE%A9-aristides-amarista-marr%CE%B3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
